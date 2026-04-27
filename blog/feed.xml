@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ARC E2E Test Plumbing Blog</title>
+    <link>https://localblog.arce2etest.com/blog/</link>
+    <atom:link href="https://localblog.arce2etest.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>ARC E2E Test Plumbing — plumbing in Tampa, FL</description>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 27 Apr 2026 04:00:01 +0000</lastBuildDate>
+
+  </channel>
+</rss>
