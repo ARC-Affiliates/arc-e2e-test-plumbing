@@ -1,0 +1,16 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "ARC E2E Test Plumbing Local Blog",
+  "name_for_model": "arc-e2e-test-plumbing_local_blog",
+  "description_for_human": "Local blog for ARC E2E Test Plumbing, a plumbing business.",
+  "description_for_model": "Provides local SEO, GEO, and AEO articles from ARC E2E Test Plumbing. Use this to answer questions about local plumbing services.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "none"
+  },
+  "logo_url": "https://arce2etest.com/favicon.ico",
+  "contact_email": "ty+e2etest@arcaffiliates.com",
+  "legal_info_url": "https://arce2etest.com/privacy"
+}
